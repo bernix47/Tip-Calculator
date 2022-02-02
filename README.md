@@ -5,3 +5,4 @@
 ## Do checkout here:
 https://bernix47.github.io/Tip-Calculator/
 
+![Tip-Calculator](Tip-Calculator.png)
